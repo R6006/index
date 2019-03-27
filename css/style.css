@@ -145,7 +145,6 @@ hr{
   text-align: center;
 }
 .userCard >footer.media>a{
-  border: 1px solid black;
   display: inline-block;
   border-radius: 50%;
   width: 40px;
